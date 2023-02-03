@@ -1,0 +1,41 @@
+	body
+		{
+		background-image:url(images/sky1.jpg);
+		font-family:cursive;
+		text-align:center;
+		color:#17574d;
+		}
+		
+		img
+		{
+		height:400px;
+		width:90%;
+		}
+		
+		.a2
+		{
+			
+		}
+		
+		.td1
+		{
+		padding:20px;
+		width:700px;
+		border: 3px solid white;
+		margin-left:5%;
+		}
+		.table1
+		{
+		border: 2px solid black;
+		width:100%;
+		text-align:center;
+		color:#17574d;
+		padding:10px;
+		}
+		.a2 {
+		background-color:#3bbfab;
+		color: #17574d;
+		padding: 10px 20px;
+		text-decoration: none;
+		
+		}

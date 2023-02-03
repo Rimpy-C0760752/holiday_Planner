@@ -1,0 +1,46 @@
+	body
+	{
+		font-family:cursive;
+		background-image:url(images/contact.jpg);
+		background-size:cover;
+	}
+
+
+	img
+	{
+		height:400px;
+		width:100%;
+	}
+
+	input[type=text], select, textarea {
+		width: 70%;
+		padding: 12px;
+		border: 1px solid #ccc;
+		margin-top: 6px;
+		margin-bottom: 16px;
+		resize: vertical;
+		border-radius:10px;
+	}
+
+	input[type=submit] 
+	{
+		margin-left:300px;
+		background-color: #17574d;
+		color: white;
+		padding: 15px 30px;
+		cursor: pointer;
+		border-radius:10px;
+	}
+	.tab
+	{
+		width:100%;
+	}
+	.t2
+	{
+		width:100%;
+		text-align:left;
+	}
+	p
+	{
+		font-size:20px;
+	}

@@ -1,0 +1,22 @@
+  body 
+		{
+			background-image: url("images/cloud_background.jpg");
+			font-family:cursive;
+			text-align:center;
+			color:#17574d;
+		}
+	  .table1
+		  {
+			 width:100%;
+			 padding:10px;
+		  }
+	  .image
+		{
+			 height:300px;
+			 width:500px;
+		}
+		.col
+		{
+			padding:20px;
+		}
+	 

@@ -1,0 +1,71 @@
+	body
+		{
+			background-image:url(images/sun.jpg); 
+			background-size:cover;
+			font-family:cursive;
+		}  
+	.main
+		{
+			margin-left:300px;
+			margin-top:150px;
+			background-color:purple;
+			width: 400px;
+			height: 400px;
+			border-radius: 20px;  
+			text-align:center;			
+		}
+    
+	.sign 
+		{
+			padding-top: 40px;
+			color: white;
+			font-weight: bold;
+			font-size: 23px;
+		}
+    
+	.un 
+		{
+			width: 70%;  
+			font-weight: 700;
+			font-size: 14px; 
+			border-radius: 20px;
+			padding: 10px 20px; 
+			box-sizing: border-box;
+			margin-bottom: 50px;
+			margin-left: 46px;
+			text-align: center;
+			margin-bottom: 27px;
+        }
+    
+ 
+    
+	.pass 
+		{
+			width: 70%;
+			font-weight: 700;
+			font-size: 14px;
+			padding: 10px 20px;
+			border-radius: 20px;
+			box-sizing: border-box;
+			margin-bottom: 50px;
+			margin-left: 46px;
+			text-align: center;
+			margin-bottom: 27px;
+
+		}
+	a
+		{
+			background-color:#c455d4;
+			color: white;
+			padding: 10px 20px;
+			text-decoration: none;
+			border-radius:20px;
+		}
+	footer
+		{
+			height:150px; 
+			width:100%; 
+			background-color:black;
+			color:white;
+			text-align:center;
+		}
